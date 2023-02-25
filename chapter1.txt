@@ -1,2 +1,2 @@
-This is the first chapter adding on git
+The Time of Problem is the Time of Mind Development
 commit is "initial commit"
